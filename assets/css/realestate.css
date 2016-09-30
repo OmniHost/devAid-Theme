@@ -1,0 +1,246 @@
+@font-face {
+    font-family: 'Korataki';
+    src: url('../fonts/ufonts.com_korataki.eot');
+    src: url('../fonts/ufonts.com_korataki?#iefix') format('embedded-opentype'),
+
+        url('../fonts/ufonts.com_korataki.woff') format('woff'),
+        url('../fonts/ufonts.com_korataki.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+.header {
+    background: #000;
+}
+.logo-title span {
+    color: #17baef;
+}
+.header .logo {
+    padding-top: 0;
+    font-size: 36px;
+}
+.header.navbar-fixed-top .logo a span span {
+    color: #000;
+}
+
+.social-media .title {
+    Color: #fff;
+    font-size: 25px;
+}
+
+#promo .social-media{
+    margin-top: 90px;
+    padding-bottom: 90px;
+}
+
+#promo h2, #promo h3 {
+    color: #000;
+}
+#promo h2 {
+    font-size: 32px;
+}
+#promo h3 { 
+    font-size: 27px;
+    margin-bottom: 15px;
+}
+.promo,#promo {
+    font-size: 18px;
+}
+#promo p {
+    font-weight: 700;
+}
+
+#promo ol li {
+    padding-left: 18px;
+    padding-bottom: 10px;
+}
+
+html, body {
+    height: 100%;
+}
+
+#promo .social-media {
+    background: inherit;
+}
+
+#agents {
+    background-color: #fff;
+    padding-top: 150px;
+    padding-bottom: 45px;
+}
+
+.agent {
+        padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+.agent img {
+    max-height: 130px;
+}
+
+.img-thumbnail-container img {
+    float:left;
+    margin:5px;
+    max-height: 150px;
+    width: 11.3%;
+}
+
+@media (max-width: 401px) {
+    .header .logo{
+        font-size: 26px;
+        text-align: center
+    }
+
+    .logo.pull-left {
+        float: none !important;
+    }
+}
+
+.img-thumbnail-container {
+    background: #fff;
+
+    border-radius: 15px;
+}
+.img-thumbnail-container img {
+    float:left;
+    margin:5px;
+    max-height: 150px;
+    width: 11.3%;
+}
+
+@media (max-width: 995px) {
+    .img-thumbnail-container { 
+    }
+    .img-thumbnail-container img {
+
+        width: 11%;
+    }   
+}
+@media (max-width: 715px) {
+    .img-thumbnail-container { 
+    }
+    .img-thumbnail-container img {
+
+        width: 10%;
+    }   
+}
+@media (max-width: 450px) {
+    .img-thumbnail-container img {
+        margin-left:0;
+        margin-right:0;
+        width: 25%;
+    }   
+}
+
+@media (max-width: 550px) {
+    .image-header.offset-header {
+        padding-top: 150px;
+    }   
+}
+
+
+.modal-v2 .modal-content {
+    border-radius: 15px;
+    border: 3px inset #CECECE;
+}
+.modal-v2 .modal-body {
+    border: none;
+    padding-top: 25px;
+}
+.modal-v2 .close {
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.80);
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    text-transform: uppercase;
+    line-height: 20px;
+    position: absolute;
+    right: -20px;
+    top: -20px;
+}
+
+.modal-v2 .progress {
+    height: 30px;
+    margin-bottom: 0px;
+}
+
+.modal-v2 .progress .progress-bar-text {
+    position: relative;
+    top: 7px;
+    left: -40px;
+    color: #333 !important;
+    text-shadow: 2px 2px 6px rgba(255, 255, 255, 0.95);
+    font-weight: normal;
+    font-size: 11px;
+}
+
+.input-group-addon.bg-white {
+    background: #fff;
+    border-left: none;
+}
+
+.logo-title {
+    display:block;
+}
+
+.agent-description {
+   text-align: justify;
+    padding: 20px;
+    margin-top: 5px;
+    border-top: 1px solid #ccc;
+}
+
+
+.topguns .logo-title {
+    font-family: 'Korataki';
+}
+.topguns .header .logo em {
+    font-size: 16px;
+    font-family: 'Korataki';
+}
+.image-header {
+    background: #fff;
+}
+.image-header img{
+    display: block;
+    margin: 25px auto;
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 35px;
+    box-shadow: 0 0 12px #000;
+}
+.topguns .promo{
+    padding-top:15px;
+}
+.topguns #promo {
+    padding-top: 50px;
+    background: #17baef;
+    color: #fff;
+}
+.tglink {
+    position: relative;
+    font-family: 'Korataki';
+    text-align: center;
+}
+.tglink span {
+    display: block;
+    position: relative;
+    bottom: 75px;
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+}
+
+.tglink img {
+    opacity: 0.85;
+}
+
+.tglink:hover img {
+    opacity: 1;
+}
+body {
+    background:#042a36;
+}
