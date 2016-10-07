@@ -26,7 +26,7 @@ include('common/header.php');
                     </div>
                     <div class="agent-description">
                         <p>Chris Mclean was a name that consistently came up as one of Dunedin’s Top Gun listing agents. One of the elite agents who sits in the 100 million in sales club- Chris’s wealth of experience is an asset to anybody considering selling their own.</p>
-                        <p>What stood out about Chris is his reputation of integrity. When he goes to work selling your house, you’ll know he has your absolute best intentions at heart. A brilliant negotiator determined to do right by everyone. Chris offers that wonderful combination or expertise and trust- attributes that have won him accolades as a top gun.</p>
+                        <p>What stood out about Chris is his reputation of integrity. When he goes to work selling your house, you’ll know he has your absolute best intentions at heart. A brilliant negotiator determined to do right by everyone. Chris offers that wonderful combination of expertise and trust- attributes that have won him accolades as a top gun.</p>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@ include('common/header.php');
                     </div>
                     <div class="agent-description">
                         <p>Kate Croy was an obvious pick as one of Dunedin’s Top Guns. Kate has developed a huge reputation for making things happen and achieving success. Kate is known for being refreshingly honest and so easy to deal with. There is no smoke in mirrors with Kate- you’ll know from the moment you met her, she’s on your side. </p>
-<p>She’s not frightened of hard work, loves a challenge and exudes passion for her role in getting the best possible price for you house. There is something about Kate. No games, just results. Kate is a true top gun in every description of the term.</p>
+<p>She’s not frightened of hard work, loves a challenge and exudes passion for her role in getting the best possible price for your house. There is something about Kate. No games, just results. Kate is a true top gun in every description of the term.</p>
 
                     </div>
                 </div>
