@@ -25,7 +25,7 @@ include('common/header.php');
                         </div>
                     </div>
                     <div class="agent-description">
-                        <p>Chris Mclean was a name that consistently came up as one of Dunedin’s Top Gun listing agents. One of the elite agents who sits in the 100 million in sales club- Chris’s wealth of experience is an asset to anybody considering selling their own.</p>
+                        <p>Chris Maclean was a name that consistently came up as one of Dunedin’s Top Gun listing agents. One of the elite agents who sits in the 100 million in sales club- Chris’s wealth of experience is an asset to anybody considering selling their own.</p>
                         <p>What stood out about Chris is his reputation of integrity. When he goes to work selling your house, you’ll know he has your absolute best intentions at heart. A brilliant negotiator determined to do right by everyone. Chris offers that wonderful combination of expertise and trust- attributes that have won him accolades as a top gun.</p>
                     </div>
                 </div>
@@ -33,7 +33,7 @@ include('common/header.php');
             <div class="col-lg-4 col-sm-6 col-xs-12">
                 <div class="agent">
                     <div class="row agent-bio">
-                         <div class="col-xs-4"><img class="img-responsive center-block" src="assets/images/katecroy.jpg" alt="Chris Maclean" title="Chril Maclean" /></div>
+                         <div class="col-xs-4"><img class="img-responsive center-block" src="assets/images/katecroynew.jpg" alt="Chris Maclean" title="Chril Maclean" /></div>
                         <div class="col-xs-8"><div class="fullinfo">
                                 <strong>Kate Croy</strong>
                                 <div class="desc">
