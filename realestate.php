@@ -88,9 +88,9 @@ include('common/header.php');
                     <li>Why most Agents aren't working in your best interest when negotiating.</li>
                 </ol>
             </div>
-            <div class="col-sm-4">
-                <img src="" class="img img-responsive center-block" />
-                <button type="button" class="btn btn-cta-secondary" data-toggle="modal" data-target="#downloadModal">Download Now <i class="fa fa-download"></i></button>
+            <div class="col-sm-4 text-center">
+                <img src="assets/images/topgyunbook.png" class="img img-responsive center-block" />
+<br />                <button type="button" class="btn btn-cta-secondary" data-toggle="modal" data-target="#downloadModal">Download Now <i class="fa fa-download"></i></button>
             </div>
         </div>
     </div><!--//container-->

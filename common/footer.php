@@ -1,4 +1,4 @@
-<div class="modal fade modal-v2" id="downloadModal" data-backdrop="static">
+<div class="modal fade modal-v2" id="downloadModal" data-backdrop="static" style="z-index: 999999;">
     <div class="modal-dialog">
         <div class="modal-content">
 
