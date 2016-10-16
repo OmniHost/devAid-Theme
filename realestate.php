@@ -3,7 +3,7 @@
 $pagetitle = 'Top Guns Dunedin - Real Estate';
 $pagedesc = 'Deal with the best of the best real estate agents in Dunedin';
 $campaign_id = '1';
-$crmurl = 'http://clients/mycrm';
+$crmurl = 'http://demo.smallbusinesstools.ga/';
 include('common/header.php');
 ?>
 
